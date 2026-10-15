@@ -636,6 +636,13 @@ panorama_3C17667F_2BEF_B0F1_418C_586559EE1A8F.label = Sede_Turbaco_024
 panorama_3C175BF8_2BEF_B7FF_41A6_5C3CED91E32D.label = Sede_Turbaco_025
 panorama_3C17A151_2BEF_9031_41B4_56B14A22FF01.label = Sede_Turbaco_026.jpg
 video_10548897_36C2_C2A7_41B3_D19E51D14EE6.label = TOBIAZ_SEDE_MANGA_PISO_18
+album_2ABC9B7B_3D83_BB53_41B9_57E309895164_0.label = enruta_01_portada
+album_2ABC9B7B_3D83_BB53_41B9_57E309895164_1.label = enruta_02_mucho-mas-que-un-tramite
+album_2ABC9B7B_3D83_BB53_41B9_57E309895164_2.label = enruta_03_ruta-en-5-pasos
+album_2ABC9B7B_3D83_BB53_41B9_57E309895164_3.label = enruta_04_elige-tu-camino
+album_2ABC9B7B_3D83_BB53_41B9_57E309895164_4.label = enruta_05_todo-en-un-solo-lugar
+album_2ABC9B7B_3D83_BB53_41B9_57E309895164_5.label = enruta_06_es-momento-de-crecer
+album_2ABC9B7B_3D83_BB53_41B9_57E309895164.label = Álbum de Fotos enruta_01_portada
 
 ### Video
 videolevel_30A79697_3D18_3648_41C1_C174A20D4DC0.url = media/video_10542B64_36C2_C799_41B3_5799FC514A75_es.mp4
