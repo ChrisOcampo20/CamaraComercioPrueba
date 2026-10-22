@@ -4,21 +4,24 @@
 
 ### URL
 LinkBehaviour_BBC4F5EB_3311_A5FE_41C1_8639839C9C9E.source = https://docs.google.com/forms/d/e/1FAIpQLSdazD-EaEOHmy-ewEFUuhLAa6cYtFmBooGShFwKubHDXDgnOA/viewform?edit_requeste…
-LinkBehaviour_4A2EEA53_32F0_AE2E_41BD_A713D3EBA5D6.source = https://docs.google.com/forms/d/e/1FAIpQLSdazD-EaEOHmy-ewEFUuhLAa6cYtFmBooGShFwKubHDXDgnOA/viewform?edit_requeste…
 LinkBehaviour_42AF1AA8_32F0_EE7A_41C8_80CA22D1F2B0.source = https://docs.google.com/forms/d/e/1FAIpQLSdazD-EaEOHmy-ewEFUuhLAa6cYtFmBooGShFwKubHDXDgnOA/viewform?edit_requeste…
+LinkBehaviour_4A2EEA53_32F0_AE2E_41BD_A713D3EBA5D6.source = https://docs.google.com/forms/d/e/1FAIpQLSdazD-EaEOHmy-ewEFUuhLAa6cYtFmBooGShFwKubHDXDgnOA/viewform?edit_requeste…
 LinkBehaviour_7CC946F2_5F11_D21C_41C9_3C84FD93D3C4.source = https://docs.google.com/forms/d/e/1FAIpQLSdazD-EaEOHmy-ewEFUuhLAa6cYtFmBooGShFwKubHDXDgnOA/viewform?edit_requeste…
 LinkBehaviour_6AAB5180_5F10_AEFD_41D2_0921E9C25CBA.source = https://docs.google.com/forms/d/e/1FAIpQLSdazD-EaEOHmy-ewEFUuhLAa6cYtFmBooGShFwKubHDXDgnOA/viewform?edit_requeste…
 
 ## Hotspot
 
 ### Texto
+HotspotPanoramaOverlayTextImage_A4A28375_37C7_C678_419A_E0F191584A77.text = Cafeteria
 HotspotPanoramaOverlayTextImage_12B36DA9_3D18_3A58_41AC_DBD7039F7B1B.text = Cafeteria
 HotspotPanoramaOverlayTextImage_AA0630B4_37C5_42F9_41CA_5F0E896A03DE.text = Cafeteria
-HotspotPanoramaOverlayTextImage_A4A28375_37C7_C678_419A_E0F191584A77.text = Cafeteria
 HotspotPanoramaOverlayTextImage_0EF28257_3BEE_9B92_41B8_6421E8999387.text = Compras
 HotspotPanoramaOverlayTextImage_11232E0F_3BE6_8B72_419D_F2F1D60FCAE2.text = Comunicaciones y Mercadeo \
 
 HotspotPanoramaOverlayTextImage_119AC580_3BF9_F96E_4196_4D8026255D50.text = Comunicaciones y Mercadeo \
+
+HotspotPanoramaOverlayTextImage_EFD2993E_3C22_891D_41C9_D426D2B6B101.text = Coordinacion de Relaciones Institucionales \
+ \
 
 HotspotPanoramaOverlayTextImage_0429FF7F_3BAB_8992_41AF_E36BD3D66C0F.text = Coordinacion de Relaciones Institucionales \
  \
@@ -26,14 +29,11 @@ HotspotPanoramaOverlayTextImage_0429FF7F_3BAB_8992_41AF_E36BD3D66C0F.text = Coor
 HotspotPanoramaOverlayTextImage_7AF77F22_3BA9_89AD_41C5_CDF964C7B653.text = Coordinacion de Relaciones Institucionales \
  \
 
-HotspotPanoramaOverlayTextImage_EFD2993E_3C22_891D_41C9_D426D2B6B101.text = Coordinacion de Relaciones Institucionales \
- \
-
 HotspotPanoramaOverlayTextImage_79F6AAA9_3BA9_88BF_41C4_D9F4C2E22687.text = Coordinacion de relaciones institucionales \
  \
 
-HotspotPanoramaOverlayTextImage_60DF08A6_3B6A_88B5_4196_9744DEC1E4AE.text = Coworking
 HotspotPanoramaOverlayTextImage_68F5225B_3B9B_9B93_41B7_B62A2A1BDA97.text = Coworking
+HotspotPanoramaOverlayTextImage_60DF08A6_3B6A_88B5_4196_9744DEC1E4AE.text = Coworking
 HotspotPanoramaOverlayTextImage_0B7F494A_3BFA_89F2_41C5_FC032716F0F5.text = Dirección Administrativa y Financiera
 HotspotPanoramaOverlayTextImage_8AD60655_37CD_41BB_41C4_BF49102E2CC7.text = Dirección Desarrollo Estrategico Empresarial \
 
@@ -43,50 +43,45 @@ HotspotPanoramaOverlayTextImage_788868A8_3BBA_88BE_4192_00385634B666.text = Dire
 
 HotspotPanoramaOverlayTextImage_7791FC09_3BAE_8F7E_41C3_9F9D94103496.text = Dirección de Desarrollo Regional y Sostenibilidad \
 
-HotspotPanoramaOverlayTextImage_11FDF931_3BE9_89AF_41B9_D452B15E3364.text = Dirección de Servicios Registrales \
-
-HotspotPanoramaOverlayTextImage_126DAB34_3C66_892D_41BC_CE20261A4BF3.text = Dirección de Servicios Registrales \
-
 HotspotPanoramaOverlayTextImage_6B282FED_3BAB_88B7_41C0_B8D0204A5BB2.text = Director de Desarrollo Regional y Sostenibilidad \
-
-HotspotPanoramaOverlayTextImage_735CCB0F_3BAB_8972_419D_99096E830973.text = Ecosistema Competitivo \
-
-HotspotPanoramaOverlayTextImage_3C6A08E2_3CE1_7725_41BA_303000C8BE83.text = Ecosistema Competitivo \
 
 HotspotPanoramaOverlayTextImage_3C699A18_3CE2_8AE5_4198_3865500FAD1C.text = Ecosistema Competitivo \
 
-HotspotPanoramaOverlayTextImage_3C69E567_3CE2_B92B_41B8_CE261EBA7A91.text = Ecosistema Competitivo \
-
 HotspotPanoramaOverlayTextImage_3C6925AA_3CE3_B925_41AA_BE7BA9FCA50C.text = Ecosistema Competitivo \
+
+HotspotPanoramaOverlayTextImage_735CCB0F_3BAB_8972_419D_99096E830973.text = Ecosistema Competitivo \
+
+HotspotPanoramaOverlayTextImage_3C69E567_3CE2_B92B_41B8_CE261EBA7A91.text = Ecosistema Competitivo \
 
 HotspotPanoramaOverlayTextImage_3C6A57ED_3CE1_993F_41A2_D158B78BE514.text = Ecosistema Competitivo \
 
-HotspotPanoramaOverlayTextImage_73CC2A75_3BA6_8B96_41CC_AC681266420E.text = Emprendimiento \
+HotspotPanoramaOverlayTextImage_3C6A08E2_3CE1_7725_41BA_303000C8BE83.text = Ecosistema Competitivo \
 
 HotspotPanoramaOverlayTextImage_164A8EBD_3D09_F7BB_41A7_807E24223119.text = Emprendimiento \
 
 HotspotPanoramaOverlayTextImage_3C6A967C_3CE6_9B1D_41A3_F4211734512B.text = Emprendimiento \
 
-HotspotPanoramaOverlayTextImage_15E46997_3BF9_8892_41AC_594853884DA3.text = Experiencia  \
-del Servicio \
+HotspotPanoramaOverlayTextImage_73CC2A75_3BA6_8B96_41CC_AC681266420E.text = Emprendimiento \
 
 HotspotPanoramaOverlayTextImage_23646430_3D08_0A48_41BB_39EEE6D1F09F.text = Experiencia  \
 del Servicio \
 
+HotspotPanoramaOverlayTextImage_15E46997_3BF9_8892_41AC_594853884DA3.text = Experiencia  \
+del Servicio \
+
 HotspotPanoramaOverlayTextImage_0AAF9747_3BEA_99F2_4162_E9A4F87DEFBE.text = Financiera
 HotspotPanoramaOverlayTextImage_7665883D_3BAA_9797_41A6_6CE5D32723B2.text = Fortalecimiento Empresarial
-HotspotPanoramaOverlayTextImage_3C6925AA_3CE3_B925_41BC_23B8FEC1B3E8.text = Fortalecimiento Empresarial
 HotspotPanoramaOverlayTextImage_3C6A57EC_3CE1_993D_41C3_C26DF035660F.text = Fortalecimiento Empresarial
-HotspotPanoramaOverlayTextImage_3C6A08E2_3CE1_7725_41B8_82A55019B968.text = Fortalecimiento Empresarial
+HotspotPanoramaOverlayTextImage_3C6925AA_3CE3_B925_41BC_23B8FEC1B3E8.text = Fortalecimiento Empresarial
 HotspotPanoramaOverlayTextImage_3C69E567_3CE2_B92B_41BA_2D6F35F8E30D.text = Fortalecimiento Empresarial
 HotspotPanoramaOverlayTextImage_3C699A18_3CE2_8AE5_41C1_641873A9A06C.text = Fortalecimiento Empresarial
-HotspotPanoramaOverlayTextImage_118B4A89_3BEA_8B7F_41C9_5756B30B891E.text = Gestión Documental
+HotspotPanoramaOverlayTextImage_3C6A08E2_3CE1_7725_41B8_82A55019B968.text = Fortalecimiento Empresarial
 HotspotPanoramaOverlayTextImage_147C58E5_3BFE_88B6_41CA_FEE2259BAAB1.text = Inspiración Caribe
-HotspotPanoramaOverlayTextImage_3C702549_3CE1_B967_41CD_983A62068CB6.text = Investigación Economica
-HotspotPanoramaOverlayTextImage_3C710FEC_3CE3_893D_41B4_299272E94F04.text = Investigación Economica
 HotspotPanoramaOverlayTextImage_3C723AA0_3CE1_8B25_41C4_F7E18CD210F1.text = Investigación Economica
-HotspotPanoramaOverlayTextImage_6F0AC577_3BA6_9992_41CB_B01BFF9C0AF2.text = Investigación Economica
 HotspotPanoramaOverlayTextImage_3C7079FC_3CE1_891D_41C6_C66D5FCD0D75.text = Investigación Economica
+HotspotPanoramaOverlayTextImage_3C710FEC_3CE3_893D_41B4_299272E94F04.text = Investigación Economica
+HotspotPanoramaOverlayTextImage_3C702549_3CE1_B967_41CD_983A62068CB6.text = Investigación Economica
+HotspotPanoramaOverlayTextImage_6F0AC577_3BA6_9992_41CB_B01BFF9C0AF2.text = Investigación Economica
 HotspotPanoramaOverlayTextImage_0EF12AC2_3BE9_88F2_4177_63F0574AF6C9.text = Jefatura  Financiera \
 
 HotspotPanoramaOverlayTextImage_3C7079FC_3CE1_891D_41CB_5915F8E87053.text = Jefatura Investigaciones Economicas
@@ -96,11 +91,11 @@ HotspotPanoramaOverlayTextImage_3C710FEC_3CE3_893D_41A1_236D49643F72.text = Jefa
 HotspotPanoramaOverlayTextImage_3C723A9F_3CE1_8B1B_41C2_46E8AA4BA344.text = Jefatura Investigaciones Economicas
 HotspotPanoramaOverlayTextImage_0ED2E429_3BE9_BFBF_41C9_C9F9D53D6F77.text = Jefatura de Compras \
 
-HotspotPanoramaOverlayTextImage_7D17072E_3BA6_99B2_4194_6B08BAB4523B.text = Jefatura de Ecosistema Competitivo \
+HotspotPanoramaOverlayTextImage_7DF35FAC_3BBA_88B6_4190_F03868FE7806.text = Jefatura de Ecosistema Competitivo \
 
 HotspotPanoramaOverlayTextImage_732C7287_3BBA_FB72_41C7_85C220129881.text = Jefatura de Ecosistema Competitivo \
 
-HotspotPanoramaOverlayTextImage_7DF35FAC_3BBA_88B6_4190_F03868FE7806.text = Jefatura de Ecosistema Competitivo \
+HotspotPanoramaOverlayTextImage_7D17072E_3BA6_99B2_4194_6B08BAB4523B.text = Jefatura de Ecosistema Competitivo \
 
 HotspotPanoramaOverlayTextImage_7EB7C836_3BB9_B795_41C7_74419DD5AB45.text = Jefatura de Emprendimiento \
 
@@ -116,38 +111,38 @@ HotspotPanoramaOverlayTextImage_7D949319_3BA6_F99F_41BB_BDE19F86148E.text = Jefa
 HotspotPanoramaOverlayTextImage_72FC9F3D_3BBB_8996_41A0_B0799BEB0817.text = Jefatura de Fortaliecimiento Empresarial \
  \
 
-HotspotPanoramaOverlayTextImage_3C723A9F_3CE1_8B1B_4190_84AA2EAD5423.text = Jefatura de Internalización, Proyectos y Cooperación
 HotspotPanoramaOverlayTextImage_3C710FEB_3CE3_893B_41CD_8660D781B10A.text = Jefatura de Internalización, Proyectos y Cooperación
-HotspotPanoramaOverlayTextImage_3C702548_3CE1_B965_41C2_6DDD0FBB5B5E.text = Jefatura de Internalización, Proyectos y Cooperación
 HotspotPanoramaOverlayTextImage_77ABE87D_3BAA_7796_41C1_B6A4F0AE73AD.text = Jefatura de Internalización, Proyectos y Cooperación
+HotspotPanoramaOverlayTextImage_3C702548_3CE1_B965_41C2_6DDD0FBB5B5E.text = Jefatura de Internalización, Proyectos y Cooperación
+HotspotPanoramaOverlayTextImage_3C723A9F_3CE1_8B1B_4190_84AA2EAD5423.text = Jefatura de Internalización, Proyectos y Cooperación
 HotspotPanoramaOverlayTextImage_0E99E035_3BE9_9796_41C3_6C676BC50E9D.text = Jefatura de Planeacion Estratégica
 HotspotPanoramaOverlayTextImage_4C28145A_3C23_7F65_41B7_5D09EC3C2B8A.text = Jefe Gestión  \
  Humana \
 
 HotspotPanoramaOverlayTextImage_0E9F9E60_3BFA_8BAD_41C1_09CAC7E2CE96.text = Jefe Gestión Humana \
 
-HotspotPanoramaOverlayTextImage_117D71E7_3BFA_98B2_41BC_C97BAC1F2A30.text = Jefe de Comunicaciones
 HotspotPanoramaOverlayTextImage_1053A9B4_3BE6_8896_41C1_BBB4F5F13586.text = Jefe de Comunicaciones
+HotspotPanoramaOverlayTextImage_117D71E7_3BFA_98B2_41BC_C97BAC1F2A30.text = Jefe de Comunicaciones
 HotspotPanoramaOverlayTextImage_4C28645A_3C23_7F65_41C6_574CECDC0A01.text = Jefe de Control Interno
 HotspotPanoramaOverlayTextImage_17870AF2_3BF9_8892_41C5_F865B0230EC5.text = Jefe de Control Interno
-HotspotPanoramaOverlayTextImage_658066BA_3B6B_9892_41C9_8B59A5B20195.text = Líder CISE
-HotspotPanoramaOverlayTextImage_3C8128F9_3C23_B726_41C8_0A2A5373ADE2.text = Líder CISE
-HotspotPanoramaOverlayTextImage_3C81C539_3C22_F927_41C4_15EFA82A9E4F.text = Líder CISE
-HotspotPanoramaOverlayTextImage_6043CD2E_3B6A_89B2_41C6_819E1594FDFB.text = Líder CISE
 HotspotPanoramaOverlayTextImage_3C8A3F5B_3C21_891B_4170_91199A5ACAF1.text = Líder CISE
+HotspotPanoramaOverlayTextImage_6043CD2E_3B6A_89B2_41C6_819E1594FDFB.text = Líder CISE
+HotspotPanoramaOverlayTextImage_658066BA_3B6B_9892_41C9_8B59A5B20195.text = Líder CISE
+HotspotPanoramaOverlayTextImage_3C81C539_3C22_F927_41C4_15EFA82A9E4F.text = Líder CISE
 HotspotPanoramaOverlayTextImage_3C88052A_3C21_793A_41C9_86434E7A08B1.text = Líder CISE
 HotspotPanoramaOverlayTextImage_3C884DA1_3C21_8927_419A_637E392722F6.text = Líder CISE
-HotspotPanoramaOverlayTextImage_3C768FAC_3CEE_893D_41CB_83AB5BCD4793.text = Líder CISE \
+HotspotPanoramaOverlayTextImage_3C8128F9_3C23_B726_41C8_0A2A5373ADE2.text = Líder CISE
+HotspotPanoramaOverlayTextImage_642FF8BD_3B69_8896_41BC_46AB37E57B74.text = Líder CISE \
+
+HotspotPanoramaOverlayTextImage_3C751952_3CE3_896A_41B3_D4E56F44801D.text = Líder CISE \
 
 HotspotPanoramaOverlayTextImage_3C753918_3CE3_96E5_41C0_89258026AE92.text = Líder CISE \
 
 HotspotPanoramaOverlayTextImage_596A2029_3B6A_B7BE_41AE_D2598509ED0E.text = Líder CISE \
 
+HotspotPanoramaOverlayTextImage_3C768FAC_3CEE_893D_41CB_83AB5BCD4793.text = Líder CISE \
+
 HotspotPanoramaOverlayTextImage_3C767DA5_3CE1_892F_41CD_B48BDE6F2D3F.text = Líder CISE \
-
-HotspotPanoramaOverlayTextImage_642FF8BD_3B69_8896_41BC_46AB37E57B74.text = Líder CISE \
-
-HotspotPanoramaOverlayTextImage_3C751952_3CE3_896A_41B3_D4E56F44801D.text = Líder CISE \
 
 HotspotPanoramaOverlayTextImage_83A813A6_37C5_4698_4172_68BFA6187C19.text = Oficina Dirección Administrativa y Financiera
 HotspotPanoramaOverlayTextImage_A770C3A0_37BD_4699_4186_AC9FFFE3AE54.text = Piso 18
@@ -155,20 +150,20 @@ HotspotPanoramaOverlayTextImage_AADF75AB_37CD_42EF_417D_9D5A4F0856F5.text = Piso
 
 HotspotPanoramaOverlayTextImage_A6A6BEB6_37BD_DEF9_4187_7AE8CB043ED9.text = Piso 20
 HotspotPanoramaOverlayTextImage_0A4F1002_3BE9_9772_41A5_3BECFF083076.text = Planificación Estratégica
-HotspotPanoramaOverlayTextImage_9F48A66E_37DD_4E68_418C_68FC5EA134AE.text = Presidencia Ejecutiva
-HotspotPanoramaOverlayTextImage_013F48E0_3B9A_88AE_41C7_53E73F0D97A3.text = Presidencia Ejecutiva
 HotspotPanoramaOverlayTextImage_937D43A0_37DD_4699_41B0_802A28FF92B4.text = Presidencia Ejecutiva
+HotspotPanoramaOverlayTextImage_013F48E0_3B9A_88AE_41C7_53E73F0D97A3.text = Presidencia Ejecutiva
+HotspotPanoramaOverlayTextImage_9F48A66E_37DD_4E68_418C_68FC5EA134AE.text = Presidencia Ejecutiva
 HotspotPanoramaOverlayTextImage_00C89F46_3B9B_89F2_41C2_78AE0A8D2CBE.text = Presidencia Ejecutiva \
-
-HotspotPanoramaOverlayTextImage_3C7079FC_3CE1_891D_41CC_242CED8E5369.text = Proyectos \
-
-HotspotPanoramaOverlayTextImage_6D46BA03_3B99_8B72_41A3_04CA5566FECD.text = Proyectos \
 
 HotspotPanoramaOverlayTextImage_3C702549_3CE1_B967_41C0_E7AA16953B5A.text = Proyectos \
 
+HotspotPanoramaOverlayTextImage_3C723AA0_3CE1_8B25_41C6_E9B7CA3971E0.text = Proyectos \
+
+HotspotPanoramaOverlayTextImage_3C7079FC_3CE1_891D_41CC_242CED8E5369.text = Proyectos \
+
 HotspotPanoramaOverlayTextImage_3C710FEC_3CE3_893D_41B4_6D1456D5B2DA.text = Proyectos \
 
-HotspotPanoramaOverlayTextImage_3C723AA0_3CE1_8B25_41C6_E9B7CA3971E0.text = Proyectos \
+HotspotPanoramaOverlayTextImage_6D46BA03_3B99_8B72_41A3_04CA5566FECD.text = Proyectos \
 
 HotspotPanoramaOverlayTextImage_7E750996_3BB9_8892_41A7_1E552DEE074B.text = Regionalización \
 
@@ -176,8 +171,6 @@ HotspotPanoramaOverlayTextImage_97E8C849_37C3_41AB_419C_19C76772C964.text = Sala
 HotspotPanoramaOverlayTextImage_A2205DFD_37CF_426B_41C3_5EDBDE527CC6.text = Sala Estrategia Empresarial
 HotspotPanoramaOverlayTextImage_93A72C0F_37C3_41A7_41C7_5459DAEA0AA8.text = Sala Juntas
 HotspotPanoramaOverlayTextImage_613521EB_3B69_F8B2_41C4_2FB3673F55F8.text = Sala de Reuniones
-HotspotPanoramaOverlayTextImage_4DD1A5C2_3747_4298_41B8_86D3CC097718.text = Salón  \
-Capacitaciones
 HotspotPanoramaOverlayTextImage_ABDE0382_37C5_C699_41C0_C2F24B5379B3.text = Salón Audiovisuales TIC \
 
 HotspotPanoramaOverlayTextImage_7F56160C_3BBA_BB75_41B6_481E017CE657.text = Salón Bolivar Inspirador
@@ -193,28 +186,18 @@ Montes de María
 HotspotPanoramaOverlayTextImage_6DBCCAED_3B9A_88B6_41C1_48CE09A87750.text = Salón de Formación
 HotspotPanoramaOverlayTextImage_6D7D1826_3B9F_B7B5_41C0_6320DB7B04C7.text = Salón de Reuniones \
 
+HotspotPanoramaOverlayTextImage_ECB6A781_3C21_79E7_41C2_8E6B40C0A6AA.text = Secretaria General \
+
 HotspotPanoramaOverlayTextImage_790EC716_3BA6_F995_41CC_F66595058E08.text = Secretaria General \
 
 HotspotPanoramaOverlayTextImage_7B5B27AC_3BAB_98B5_4190_755D06141C6F.text = Secretaria General \
 
-HotspotPanoramaOverlayTextImage_ECB6A781_3C21_79E7_41C2_8E6B40C0A6AA.text = Secretaria General \
-
-HotspotPanoramaOverlayTextImage_1050F1C2_3BEF_98F2_41C2_A831D040B26A.text = Secretaria General \
-
 HotspotPanoramaOverlayTextImage_09464ACA_3BE7_88F3_41B6_F313938E50B4.text = Servicio Administrativos \
-
-HotspotPanoramaOverlayTextImage_109D30AA_3BEB_98B2_41A7_93E1CEABEFAF.text = TIC \
 
 
 ## Media
 
 ### Imágen
-imlevel_32C5DB9A_3CF1_6B80_4191_FEE4803A5B06.url = media/panorama_03688FC9_22B2_9C81_41B6_FEA3EBA37F89_HS_npb81oov_es.webp
-imlevel_04C682FE_3D08_0FB8_41C9_BD9992305408.url = media/panorama_03688FC9_22B2_9C81_41B6_FEA3EBA37F89_HS_r7jqb9iu_es.webp
-imlevel_073AC375_3D08_0EC8_41C8_F1D4F5D4F8D0.url = media/panorama_0368C57F_22B2_8D81_41BF_B0733483237A_HS_ca12yn21_es.webp
-imlevel_04C4C339_3D08_0EB8_41B8_C7E5F8997940.url = media/panorama_0368C57F_22B2_8D81_41BF_B0733483237A_HS_ubd62fua_es.webp
-imlevel_7B0B31AC_5F17_EE04_41B9_2632CBB3C551.url = media/panorama_03695B38_22B2_858E_41AF_711D468CC404_HS_omaueoqh_es.webp
-imlevel_04C2D261_3D08_0EC8_41A3_4F63C99C745C.url = media/panorama_036F3F99_22B2_7C8E_41A7_0B8971C3940E_HS_e9b7p8nx_es.webp
 imlevel_04CCAE6C_3D08_36D8_41BD_662D7074D2F8.url = media/panorama_08709F71_2D66_90F1_41C6_5F0CCB41178F_HS_6lcwmw5v_es.webp
 imlevel_04D53CCC_3D08_3BD8_41CD_850830BF25A3.url = media/panorama_0C5A1060_2D62_B00E_41C4_77319FDC1C3C_HS_g7lbg522_es.webp
 imlevel_04CE2DE4_3D08_35C8_41BF_1960BCD4A41B.url = media/panorama_0D9109EA_2DE2_9013_41C6_44662C4C6C01_HS_hlugs14q_es.webp
