@@ -1,9 +1,9 @@
 {
- "display": "fullscreen",
  "theme_color": "#FFFFFF",
- "start_url": "index.htm?installed=true",
  "background_color": "#FFFFFF",
+ "display": "fullscreen",
  "name": "Camara de Comercio",
+ "start_url": "index.htm?installed=true",
  "icons": [
   {
    "type": "image/png",
